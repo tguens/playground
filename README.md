@@ -1,6 +1,4 @@
-# An Epic Title!
-## Super Awesome
-### Very Fun
+# Playground - Nice shared playground repo
 
 A place to play with `git`.
 
